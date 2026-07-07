@@ -1,0 +1,21 @@
+{
+  "name": "安芸灘しおりアプリ",
+  "short_name": "安芸灘しおり",
+  "description": "安芸灘の旅をスマホで楽しむしおりアプリです。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#dff8ff",
+  "theme_color": "#8edff2",
+  "lang": "ja",
+  "categories": ["travel", "navigation", "lifestyle"],
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
