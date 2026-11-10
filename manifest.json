@@ -6,8 +6,8 @@
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f7f5ee",
-  "theme_color": "#f7f5ee",
+  "background_color": "#fffaf2",
+  "theme_color": "#fffaf2",
   "lang": "ja",
   "categories": [
     "travel",
